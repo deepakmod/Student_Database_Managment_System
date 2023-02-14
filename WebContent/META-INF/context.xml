@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context>
+<Resource name="jdbc/student_tracker" auth="container" type="javax.sql.DataSource" maxActive="20" maxIdle="10" maxWait="10000" username="root" password="" driverClassName="com.mysql.cj.jdbc.Driver" url="jdbc:mysql://localhost:3306/student_tracker"/>
+</context>
